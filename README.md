@@ -1,8 +1,8 @@
 
 # 🔖 AI Data Scientist Handbook 2026
-Data science is rapidly evolving so this handbook aims at cutting through the noise and curate the AI-native tools, workflows, and resources that can actually help data scientists accelerate their work.
+Data science is rapidly evolving, so this handbook aims to cut through the noise and curate the AI-native tools, workflows, and resources that can actually help data scientists accelerate their work.
 
-Rather than covering general tools and resources, or trying to provide an exhaustive list, the aim is on surfacing the resources that are most relevant to data scientists.
+Rather than covering general tools and resources or trying to provide an exhaustive list, the aim is to surface the resources that are most relevant to data scientists right now.
 
 If you want to read more about the motivation behind this project, see the [About](#about) section.
 
