@@ -19,6 +19,7 @@ If you want to read more about the motivation behind this project, see the [Abou
 - [Conferences](#conferences)
 - [About](#about)
 
+<a id="tools"></a>
 ## 🛠️ Tools
 
 ### Modern BI & Analytics Tools
@@ -81,6 +82,7 @@ This section includes **tools built specifically with data scientists in mind** 
 
 
 
+<a id="foundation-models"></a>
 ## 🤖 Foundation Models
 This section lists foundation models (open-source and commercial) that are relevant to aim at solving core data science problems, including models for tabular data, time series, recommendations, and multimodal analysis.
 
@@ -102,6 +104,7 @@ Use this section as a starting point for exploring foundation models and their c
 
 *If you want to know more about foundation models for data science, check out [this article](https://read.futureproofds.com/p/what-are-foundation-models-and-why-data-scientists-should-care).*
 
+<a id="learning-resources"></a>
 ## 📚 Learning Resources
 
 This section lists **learning resources** that go beyond generic theory and either align with *AI-native data workflows* or *applied data science with modern AI tools*.
@@ -132,6 +135,7 @@ This section lists **learning resources** that go beyond generic theory and eith
 *Feel free to reach out to me if you have any suggestions for channels that should be added to this list!*
 
 
+<a id="conferences"></a>
 ## 🏆 Conferences
 
 ### United States
