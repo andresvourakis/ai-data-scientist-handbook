@@ -110,7 +110,7 @@ Use this section as a starting point for exploring foundation models and their c
 This section lists **learning resources** that go beyond generic theory and either align with *AI-native data workflows* or *applied data science with modern AI tools*.
 
 ### Newsletters
-- [Future Proof Data Science](https://read.futureproofdatascience.com/): A weekly newsletter for data scientists who want to stay relevant and grow their careers in the age of AI (and beyond).
+- [Future Proof Data Science](https://read.futureproofds.com/): A weekly newsletter for data scientists who want to stay relevant and grow their careers in the age of AI (and beyond).
 - [Jam with AI](https://jamwithai.substack.com/): A newsletter inspired by real-world AI/ML events & projects
 - [To Data & Beyond](https://youssefh.substack.com/): A newsletter for mastering Data Science & AI—Beyond the Basics
 - [Daily Dose of Data Science](https://blog.dailydoseofds.com/): A free newsletter for continuous learning about data science and ML, lesser-known techniques, and how to apply them in 2 minutes.
