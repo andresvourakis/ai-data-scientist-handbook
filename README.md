@@ -143,25 +143,23 @@ This section lists **learning resources** that go beyond generic theory and eith
 | Conference | Date | Location | Details |
 |------------|------|----------|----------|
 | [ODSC AI East 2026](https://odsc.ai/east/) | April 28-29, 2026 | Boston, MA | Various tracks including ML, NLP, MLOps, and Data Visualization. 250+ speakers. |
-| [ODSC AI West 2026](https://odsc.ai/west/) | OCT 27-29, 2026 | Burlingame, CA | Focuses on AI and data science with workshops, hands-on training, and strategic insights. |
 | [IBM Think 2026](https://www.ibm.com/events/think/) | May 4-7, 2026 | Boston, MA | Focuses on AI productivity, trusted data, scalable AI architectures, and cost optimization. |
-| [Data + AI Summit 2026](https://www.databricks.com/dataaisummit) | June 15-18, 2026 | San Francisco, CA | Hosted by Databricks. Includes discussions, networking, and hands-on training. |
 | [Machine Learning Week 2026](https://machinelearningweek.com/) | May 5-6, 2026 | San Francisco, CA | Focuses on making AI products robust and deployment-worthy. |
-| [The AI Conference 2026](https://aiconference.com/) | Sept 30 - Oct 1, 2026 | San Francisco, CA | Vendor-neutral event by the creators of MLconf. Features AI research, engineering, and applied ML. |
 | [The Data Science Conference](https://www.thedatascienceconference.com/) | May 28-29, 2026 | Chicago, IL | Vendor-free, sponsor-free, and recruiter-free conference for data science professionals. |
+| [Data + AI Summit 2026](https://www.databricks.com/dataaisummit) | June 15-18, 2026 | San Francisco, CA | Hosted by Databricks. Includes discussions, networking, and hands-on training. |
 | [AI Engineer World's Fair 2026](https://www.ai.engineer/worldsfair) | June 30 - July 2, 2026 | San Francisco, CA | Largest technical AI conference with 20 tracks, 250 speakers, 6,000+ attendees. |
-| [Agentic Analytics Summit](https://cube.dev/events/agentic-analytics-summit-presented-by-cube) | Oct 29, 2025 | Virtual | Presented by Cube. Focuses on agentic systems, semantic layers, and the future of AI-powered analytics. |
+| [The AI Conference 2026](https://aiconference.com/) | Sept 30 - Oct 1, 2026 | San Francisco, CA | Vendor-neutral event by the creators of MLconf. Features AI research, engineering, and applied ML. |
+| [ODSC AI West 2026](https://odsc.ai/west/) | Oct 27-29, 2026 | Burlingame, CA | Focuses on AI and data science with workshops, hands-on training, and strategic insights. |
 
 ### Europe
 
 | Conference | Date | Location | Details |
 |------------|------|----------|----------|
-| [Data Innovation Summit 2026](https://datainnovationsummit.com/) | May 6-8, 2026 | Stockholm, Sweden | Covers data governance, literacy, machine learning, with speakers from major companies. |
-| [ECML PKDD 2026](https://ecmlpkdd.org/2026/) | Sept 7-11, 2026 | Naples, Italy | Premier European conference on machine learning and knowledge discovery in databases. |
-| [NeurIPS 2025](https://neurips.cc/) | Nov 30 - Dec 7, 2025 | San Diego, CA, USA | Leading AI/ML research conference. Covers deep learning, AI ethics, and large-scale models. |
 | [World AI Cannes Festival 2026](https://www.worldaicannes.com/) | Feb 12-13, 2026 | Cannes, France | Focuses on AI, ML, and data science. Features AI technologies and global innovators. |
-| [DATA 2026](https://data.scitevents.org/) | July 16-18, 2026 | Porto, Portugal | International conference on data science, technology, and applications. |
 | [AI Engineer Europe 2026](https://www.ai.engineer/europe) | April 8-10, 2026 | London, UK | First official AI Engineer Europe event. Large multitrack technical AI conference for 1000+ AI engineers. |
+| [Data Innovation Summit 2026](https://datainnovationsummit.com/) | May 6-8, 2026 | Stockholm, Sweden | Covers data governance, literacy, machine learning, with speakers from major companies. |
+| [DATA 2026](https://data.scitevents.org/) | July 16-18, 2026 | Porto, Portugal | International conference on data science, technology, and applications. |
+| [ECML PKDD 2026](https://ecmlpkdd.org/2026/) | Sept 7-11, 2026 | Naples, Italy | Premier European conference on machine learning and knowledge discovery in databases. |
 
 # Contributing
 
