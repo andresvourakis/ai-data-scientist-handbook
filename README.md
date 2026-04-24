@@ -68,6 +68,7 @@ Tools that let you talk to your data via conversational AI, natural-language que
 | [Vanna AI](https://vanna.ai/) | Natural-language chat interface for querying SQL databases; generates SQL and charts/summaries. |
 | [Powerdrill (Chat with Database)](https://powerdrill.ai/features/chat-with-database) | Chat-based analytics interface for asking questions and analyzing data without writing SQL. |
 | [Wren AI](https://www.getwren.ai/) | Natural-language interface for querying and interacting with data sources. |
+| [AI for Database](https://aifordatabase.com/) | Connect any database and query it in plain English; get instant insights, self-refreshing dashboards, and trigger automated workflows based on database changes. |
 
 ### Miscellaneous Tools
 
