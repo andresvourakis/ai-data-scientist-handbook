@@ -79,6 +79,7 @@ This section includes **tools built specifically with data scientists in mind** 
 | [MCP Toolbox for Databases](https://github.com/modelcontextprotocol/servers) | Standardized way to connect agents to databases | Directly addresses a core DS need: safe, structured access to data sources |
 | [Metaflow](https://metaflow.org/) | DS-first workflow and experiment framework | Built to let data scientists move from notebooks to production without heavy infrastructure |
 | [cleanlab](https://cleanlab.ai/) | Data quality and label issue detection | Focuses on a uniquely DS problem: silent data and label errors that hurt model performance |
+| [LandscapioAI](https://www.landscapioai.com/) | AI landscape design visualization | Useful for multimodal AI workflows that turn site context and prompts into visual design concepts |
 
 
 
