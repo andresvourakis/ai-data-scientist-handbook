@@ -115,7 +115,6 @@ This section lists **learning resources** that go beyond generic theory and eith
 - [Jam with AI](https://jamwithai.substack.com/): A newsletter inspired by real-world AI/ML events & projects
 - [To Data & Beyond](https://youssefh.substack.com/): A newsletter for mastering Data Science & AI—Beyond the Basics
 - [Daily Dose of Data Science](https://blog.dailydoseofds.com/): A free newsletter for continuous learning about data science and ML, lesser-known techniques, and how to apply them in 2 minutes.
-- [Neural Pulse](https://neuralpulse.io/subscribe): A 5-minute, human-curated newsletter delivering the best in AI, ML, and data science (twice a week).
 
 
 ### Courses
