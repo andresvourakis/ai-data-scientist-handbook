@@ -77,7 +77,7 @@ This section includes **tools built specifically with data scientists in mind** 
 | Tool | What it’s for | Why it belongs here |
 |------|---------------|---------------------|
 | [Google Agent Development Kit (ADK)](https://cloud.google.com/vertex-ai/docs/agent-builder/overview) | Framework for building structured, tool-using agents | Designed for analytical and reasoning-heavy workflows, not just chatbots |
-| [MCP Toolbox for Databases](https://github.com/modelcontextprotocol/servers) | Standardized way to connect agents to databases | Directly addresses a core DS need: safe, structured access to data sources |
+| [MCP Toolbox for Databases](https://github.com/googleapis/mcp-toolbox) | Standardized way to connect agents to databases | Directly addresses a core DS need: safe, structured access to data sources |
 | [Metaflow](https://metaflow.org/) | DS-first workflow and experiment framework | Built to let data scientists move from notebooks to production without heavy infrastructure |
 | [cleanlab](https://cleanlab.ai/) | Data quality and label issue detection | Focuses on a uniquely DS problem: silent data and label errors that hurt model performance |
 
